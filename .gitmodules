@@ -1,0 +1,9 @@
+[submodule "lib/repozytoriuma"]
+	path = lib/repozytoriuma
+	url = git@github.com:Zalan95/RepozytoriumA.git
+[submodule "lib/repozytoriumb"]
+	path = lib/repozytoriumb
+	url = git@github.com:Zalan95/RepozytoriumB.git
+[submodule "lib/repozytoriumc"]
+	path = lib/repozytoriumc
+	url = git@github.com:Zalan95/RepozytoriumC.git
